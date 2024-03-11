@@ -66,5 +66,6 @@ The P value is 0.00000003405 <0.05 I reject the hypothesis.
 
 # Discussion and Conclusion
 
+Vitamin C52 is the better cultivation method for Cabbages, and because of the P value I have rejected the hypothesis. C52 is more effective than C39.
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
